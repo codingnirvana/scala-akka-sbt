@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty_jetty-http_7.4.0.v20110414">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-http/jars/jetty-http-7.4.0.v20110414.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-http/docs/jetty-http-7.4.0.v20110414-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-http/srcs/jetty-http-7.4.0.v20110414-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

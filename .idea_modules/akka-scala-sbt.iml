@@ -26,6 +26,28 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.scala-lang_scala-library_2.9.2" level="project" />
     <orderEntry type="library" name="com.typesafe.akka_akka-actor_2.0.1" level="project" />
+    <orderEntry type="library" name="com.typesafe.akka_akka-remote_2.0.1" level="project" />
+    <orderEntry type="library" name="com.google.protobuf_protobuf-java_2.4.1" level="project" />
+    <orderEntry type="library" name="net.debasishg_sjson_2.9.1_0.15" level="project" />
+    <orderEntry type="library" name="net.databinder_dispatch-json_2.9.1_0.8.5" level="project" />
+    <orderEntry type="library" name="org.apache.httpcomponents_httpclient_4.1" level="project" />
+    <orderEntry type="library" name="org.apache.httpcomponents_httpcore_4.1" level="project" />
+    <orderEntry type="library" name="commons-logging_commons-logging_1.1.1" level="project" />
+    <orderEntry type="library" name="commons-codec_commons-codec_1.4" level="project" />
+    <orderEntry type="library" name="org.objenesis_objenesis_1.2" level="project" />
+    <orderEntry type="library" name="commons-io_commons-io_1.4" level="project" />
+    <orderEntry type="library" name="voldemort.store.compress_h2-lzf_1.0" level="project" />
+    <orderEntry type="library" name="com.ning_async-http-client_1.7.5" level="project" />
+    <orderEntry type="library" name="io.netty_netty_3.4.4.Final" level="project" />
+    <orderEntry type="library" name="org.slf4j_slf4j-api_1.6.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.scalatest_scalatest_2.9.2_1.6.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.eclipse.jetty_jetty-server_7.4.0.v20110414" level="project" />
+    <orderEntry type="library" scope="TEST" name="javax.servlet_servlet-api_2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.eclipse.jetty_jetty-continuation_7.4.0.v20110414" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.eclipse.jetty_jetty-http_7.4.0.v20110414" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.eclipse.jetty_jetty-io_7.4.0.v20110414" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.eclipse.jetty_jetty-util_7.4.0.v20110414" level="project" />
+    <orderEntry type="library" scope="TEST" name="com.typesafe.akka_akka-testkit_2.0.1" level="project" />
   </component>
 </module>
 
